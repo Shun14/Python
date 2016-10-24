@@ -1,2 +1,5 @@
 # Python
-The first coding repository
+
+- 从今天开始每天一个小程序
+- 每天晚上11点前提交
+- 打卡记录
